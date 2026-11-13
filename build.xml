@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<project name="RC OHS Application" default="build" basedir="."
+<project name="sia-adbs-final-pe" default="build" basedir="."
          xmlns:ivy="antlib:org.apache.ivy.ant">
 
     <property file="build.properties"/>
